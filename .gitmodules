@@ -1,0 +1,3 @@
+[submodule "juejin_rpc_py"]
+	path = juejin_rpc_py
+	url = git@github.com:FrankHitman/juejin_rpc_py.git
