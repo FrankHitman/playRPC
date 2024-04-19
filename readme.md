@@ -30,6 +30,12 @@ git branch --set-upstream-to=origin/main main
 
 ```
 
+查看依赖与生成依赖文件
+```
+pip list
+pip freeze -> requirements.txt
+```
+
 ## References
 - [深入理解 RPC : 基于 Python 自建分布式高并发 RPC 服务](https://juejin.cn/book/6844733722936377351)
 
