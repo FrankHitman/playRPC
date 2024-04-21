@@ -1,2 +1,7 @@
+enum34==1.1.10
+futures==3.4.0
+grpcio==1.41.1
+grpcio-tools==1.41.1
 kazoo==2.7.0
+protobuf==3.17.3
 six==1.16.0
